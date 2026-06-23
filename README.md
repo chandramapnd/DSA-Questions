@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0132-palindrome-partitioning-ii) |
 ## Backtracking
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
+## Array
+|  |
+| ------- |
+| [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
