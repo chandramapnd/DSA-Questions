@@ -74,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/chandramapnd/DSA-Questions/tree/master/0190-reverse-bits) |
 | [1125-smallest-sufficient-team](https://github.com/chandramapnd/DSA-Questions/tree/master/1125-smallest-sufficient-team) |
 ## Bitmask
 |  |
 | ------- |
 | [1125-smallest-sufficient-team](https://github.com/chandramapnd/DSA-Questions/tree/master/1125-smallest-sufficient-team) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/chandramapnd/DSA-Questions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
