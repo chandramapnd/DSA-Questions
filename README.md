@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0132-palindrome-partitioning-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandramapnd/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/chandramapnd/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/chandramapnd/DSA-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1575-count-all-possible-routes](https://github.com/chandramapnd/DSA-Questions/tree/master/1575-count-all-possible-routes) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandramapnd/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
