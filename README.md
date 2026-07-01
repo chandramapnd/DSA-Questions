@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/chandramapnd/DSA-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandramapnd/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/chandramapnd/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chandramapnd/DSA-Questions/tree/master/0001-two-sum) |
+| [0433-minimum-genetic-mutation](https://github.com/chandramapnd/DSA-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandramapnd/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/chandramapnd/DSA-Questions/tree/master/0575-distribute-candies) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/chandramapnd/DSA-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/chandramapnd/DSA-Questions/tree/master/0190-reverse-bits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/chandramapnd/DSA-Questions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
