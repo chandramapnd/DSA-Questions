@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [2390-removing-stars-from-a-string](https://github.com/chandramapnd/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandramapnd/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/chandramapnd/DSA-Questions/tree/master/0575-distribute-candies) |
+| [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [1125-smallest-sufficient-team](https://github.com/chandramapnd/DSA-Questions/tree/master/1125-smallest-sufficient-team) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/chandramapnd/DSA-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1575-count-all-possible-routes](https://github.com/chandramapnd/DSA-Questions/tree/master/1575-count-all-possible-routes) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/chandramapnd/DSA-Questions/tree/master/0190-reverse-bits) |
+| [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
