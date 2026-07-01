@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
