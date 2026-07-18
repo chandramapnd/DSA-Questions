@@ -111,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/chandramapnd/DSA-Questions/tree/master/0433-minimum-genetic-mutation) |
+| [0841-keys-and-rooms](https://github.com/chandramapnd/DSA-Questions/tree/master/0841-keys-and-rooms) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/chandramapnd/DSA-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
+| [0841-keys-and-rooms](https://github.com/chandramapnd/DSA-Questions/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/chandramapnd/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/chandramapnd/DSA-Questions/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/chandramapnd/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
