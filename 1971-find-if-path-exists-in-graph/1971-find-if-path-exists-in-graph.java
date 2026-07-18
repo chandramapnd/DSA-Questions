@@ -10,19 +10,19 @@ class Solution {
             adj.get(edge[1]).add(edge[0]);
         }
         boolean []visited = new boolean[n];
-        return dfs(adj, source, visited, destination);
-    }
-    public boolean dfs(List<List<Integer>> adj, int u, boolean []visited, int dest){
-        if(u==dest) return true;
-        visited[u] = true;
-        for(int v : adj.get(u)){
-            if(!visited[v]){
-                
-                if(dfs(adj, v, visited, dest)){
-                    return true;
+        Queue<Integer> q = new LinkedList<>();
+        q.add(source);
+        while(!q.isEmpty()){
+            int u = q.poll();
+            if(u==destination) return true;
+            for(int v : adj.get(u)){
+                if(!visited[v]){
+                    visited[v] = true;
+                    q.offer(v);
                 }
             }
         }
         return false;
     }
+    
 }
