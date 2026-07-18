@@ -112,19 +112,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/chandramapnd/DSA-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/chandramapnd/DSA-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/chandramapnd/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/chandramapnd/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/chandramapnd/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
