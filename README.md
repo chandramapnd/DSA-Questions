@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/chandramapnd/DSA-Questions/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0132-palindrome-partitioning-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/chandramapnd/DSA-Questions/tree/master/0343-integer-break) |
 | [0639-decode-ways-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0639-decode-ways-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chandramapnd/DSA-Questions/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandramapnd/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/chandramapnd/DSA-Questions/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1575-count-all-possible-routes](https://github.com/chandramapnd/DSA-Questions/tree/master/1575-count-all-possible-routes) |
 ## Binary Search
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0433-minimum-genetic-mutation](https://github.com/chandramapnd/DSA-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/chandramapnd/DSA-Questions/tree/master/0797-all-paths-from-source-to-target) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0797-all-paths-from-source-to-target](https://github.com/chandramapnd/DSA-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/chandramapnd/DSA-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/chandramapnd/DSA-Questions/tree/master/0841-keys-and-rooms) |
@@ -165,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/chandramapnd/DSA-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Math
 |  |
@@ -203,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chandramapnd/DSA-Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
