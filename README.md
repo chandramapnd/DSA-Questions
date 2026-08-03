@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
 | [1125-smallest-sufficient-team](https://github.com/chandramapnd/DSA-Questions/tree/master/1125-smallest-sufficient-team) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/chandramapnd/DSA-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1575-count-all-possible-routes](https://github.com/chandramapnd/DSA-Questions/tree/master/1575-count-all-possible-routes) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandramapnd/DSA-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-smallest-sufficient-team](https://github.com/chandramapnd/DSA-Questions/tree/master/1125-smallest-sufficient-team) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/chandramapnd/DSA-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1288-remove-covered-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/1288-remove-covered-intervals) |
+| [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1575-count-all-possible-routes](https://github.com/chandramapnd/DSA-Questions/tree/master/1575-count-all-possible-routes) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/chandramapnd/DSA-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0343-integer-break](https://github.com/chandramapnd/DSA-Questions/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
+| [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandramapnd/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -214,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
