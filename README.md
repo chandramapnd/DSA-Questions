@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/chandramapnd/DSA-Questions/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandramapnd/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
