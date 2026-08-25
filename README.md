@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/chandramapnd/DSA-Questions/tree/master/0343-integer-break) |
+| [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/chandramapnd/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0639-decode-ways-ii) |
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
+| [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Recursion
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chandramapnd/DSA-Questions/tree/master/0001-two-sum) |
 | [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandramapnd/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/chandramapnd/DSA-Questions/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/1288-remove-covered-intervals) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
