@@ -1,32 +1,57 @@
 class Solution {
-    int min = Integer.MAX_VALUE;
+
+    int[] parent;
+
     public int minScore(int n, int[][] roads) {
-        List<List<int []>> adj = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            adj.add(new ArrayList<>());
-        }
-        for(int []road : roads){
-            int u = road[0] -1;
-            int v = road[1] -1;
-            int  cost = road[2];
-            adj.get(u).add(new int[]{v, cost});
-            adj.get(v).add(new int[]{u, cost});
+
+        parent = new int[n + 1];
+
+        // Initially every city is its own parent
+        for (int i = 1; i <= n; i++) {
+            parent[i] = i;
         }
 
-        boolean []visited = new boolean[n];
-        dfs(0, adj, visited);
-        return min;
-    }
-    public void dfs(int u, List<List<int []>> adj, boolean []visited){
-        visited[u] = true;
-        for(int [] edge : adj.get(u)){
-            int v = edge[0];
-            int cost = edge[1];
-            min = Math.min(cost, min);
-            if(!visited[v]){
-                dfs(v, adj, visited);
+        // Connect all cities
+        for (int[] road : roads) {
+            int u = road[0];
+            int v = road[1];
+
+            union(u, v);
+        }
+
+        int root = find(1);
+
+        int min = Integer.MAX_VALUE;
+
+        // Find minimum edge in city 1's component
+        for (int[] road : roads) {
+            int u = road[0];
+            int v = road[1];
+            int cost = road[2];
+
+            if (find(u) == root && find(v) == root) {
+                min = Math.min(min, cost);
             }
         }
 
+        return min;
+    }
+
+    public int find(int x) {
+        if (parent[x] == x) {
+            return x;
+        }
+
+        return parent[x] = find(parent[x]);
+    }
+
+    public void union(int u, int v) {
+
+        int parentU = find(u);
+        int parentV = find(v);
+
+        if (parentU != parentV) {
+            parent[parentV] = parentU;
+        }
     }
 }
