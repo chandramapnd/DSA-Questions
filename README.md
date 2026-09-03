@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chandramapnd/DSA-Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/chandramapnd/DSA-Questions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chandramapnd/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chandramapnd/DSA-Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chandramapnd/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/chandramapnd/DSA-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chandramapnd/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/chandramapnd/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chandramapnd/DSA-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
