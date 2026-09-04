@@ -1,7 +1,14 @@
 class Solution {
-    Map<String, Double> map = new HashMap<>();
-
+    double [][][]dp;
     public double knightProbability(int n, int k, int row, int column) {
+        dp = new double[n+2][n+2][k+2];
+        for(int i=0;i<n+2;i++){
+            for(int j=0;j<n+2;j++){
+                for(int p=0;p<k+2;p++){
+                    dp[i][j][p] = -1;
+                }
+            }
+        }
         return solve(n, k, row, column);
     }
 
@@ -15,9 +22,8 @@ class Solution {
             return 1;
         }
 
-        String key = k + " "+ r + " "+ c;
 
-        if(map.containsKey(key)) return map.get(key);
+        if(dp[r][c][k]!=-1) return dp[r][c][k];
 
         double res = 0;
 
@@ -30,7 +36,6 @@ class Solution {
         res += solve(n, k - 1, r - 1, c - 2);
         res += solve(n, k - 1, r - 2, c - 1);
 
-        map.put(key, res / 8.0);
-        return res / 8.0;
+        return dp[r][c][k] = res / 8.0;
     }
 }
