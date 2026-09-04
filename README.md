@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/chandramapnd/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0639-decode-ways-ii) |
+| [0688-knight-probability-in-chessboard](https://github.com/chandramapnd/DSA-Questions/tree/master/0688-knight-probability-in-chessboard) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chandramapnd/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
 | [1125-smallest-sufficient-team](https://github.com/chandramapnd/DSA-Questions/tree/master/1125-smallest-sufficient-team) |
