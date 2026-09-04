@@ -1,6 +1,8 @@
 
 class Solution {
+    Map<Integer, List<TreeNode>> map = new HashMap<>();
     public List<TreeNode> allPossibleFBT(int n) {
+        
         return solve(n);
     }
     public List<TreeNode> solve(int n){
@@ -11,6 +13,8 @@ class Solution {
             res.add(new TreeNode(0));
             return res;
         }
+
+        if(map.containsKey(n)) return map.get(n);
 
         List<TreeNode> res = new ArrayList<>();
 
@@ -27,6 +31,7 @@ class Solution {
                 }
             }
         }
+        map.put(n, res);
         return res;
     }
 }
