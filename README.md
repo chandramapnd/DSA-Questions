@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/chandramapnd/DSA-Questions/tree/master/0688-knight-probability-in-chessboard) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/chandramapnd/DSA-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/chandramapnd/DSA-Questions/tree/master/0894-all-possible-full-binary-trees) |
 | [1125-smallest-sufficient-team](https://github.com/chandramapnd/DSA-Questions/tree/master/1125-smallest-sufficient-team) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/chandramapnd/DSA-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/0203-remove-linked-list-elements) |
+| [0894-all-possible-full-binary-trees](https://github.com/chandramapnd/DSA-Questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0894-all-possible-full-binary-trees](https://github.com/chandramapnd/DSA-Questions/tree/master/0894-all-possible-full-binary-trees) |
 | [1575-count-all-possible-routes](https://github.com/chandramapnd/DSA-Questions/tree/master/1575-count-all-possible-routes) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Binary Search
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/chandramapnd/DSA-Questions/tree/master/0894-all-possible-full-binary-trees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chandramapnd/DSA-Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/chandramapnd/DSA-Questions/tree/master/0894-all-possible-full-binary-trees) |
 ## Linked List
 |  |
 | ------- |
