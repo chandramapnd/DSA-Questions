@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/chandramapnd/DSA-Questions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/chandramapnd/DSA-Questions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/chandramapnd/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/chandramapnd/DSA-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/chandramapnd/DSA-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/chandramapnd/DSA-Questions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/chandramapnd/DSA-Questions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/chandramapnd/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0132-palindrome-partitioning-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
