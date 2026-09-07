@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/chandramapnd/DSA-Questions/tree/master/0664-strange-printer) |
 | [0839-similar-string-groups](https://github.com/chandramapnd/DSA-Questions/tree/master/0839-similar-string-groups) |
+| [0940-distinct-subsequences-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/chandramapnd/DSA-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandramapnd/DSA-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/chandramapnd/DSA-Questions/tree/master/0808-soup-servings) |
 | [0834-sum-of-distances-in-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0834-sum-of-distances-in-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/chandramapnd/DSA-Questions/tree/master/0894-all-possible-full-binary-trees) |
+| [0940-distinct-subsequences-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1125-smallest-sufficient-team](https://github.com/chandramapnd/DSA-Questions/tree/master/1125-smallest-sufficient-team) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/chandramapnd/DSA-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
