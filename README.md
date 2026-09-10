@@ -348,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
