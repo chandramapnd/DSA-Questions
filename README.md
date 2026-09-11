@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0894-all-possible-full-binary-trees](https://github.com/chandramapnd/DSA-Questions/tree/master/0894-all-possible-full-binary-trees) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandramapnd/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
 | [2706-buy-two-chocolates](https://github.com/chandramapnd/DSA-Questions/tree/master/2706-buy-two-chocolates) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandramapnd/DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chandramapnd/DSA-Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandramapnd/DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Memoization
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
