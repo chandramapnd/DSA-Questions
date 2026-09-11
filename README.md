@@ -355,4 +355,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/chandramapnd/DSA-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/chandramapnd/DSA-Questions/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/chandramapnd/DSA-Questions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
