@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandramapnd/DSA-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandramapnd/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
 | [2706-buy-two-chocolates](https://github.com/chandramapnd/DSA-Questions/tree/master/2706-buy-two-chocolates) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandramapnd/DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/3731-find-missing-elements) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
 | [2706-buy-two-chocolates](https://github.com/chandramapnd/DSA-Questions/tree/master/2706-buy-two-chocolates) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandramapnd/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
