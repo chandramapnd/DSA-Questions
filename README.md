@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/chandramapnd/DSA-Questions/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
 | [0808-soup-servings](https://github.com/chandramapnd/DSA-Questions/tree/master/0808-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/chandramapnd/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandramapnd/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -368,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/chandramapnd/DSA-Questions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/chandramapnd/DSA-Questions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/chandramapnd/DSA-Questions/tree/master/0584-find-customer-referee) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/chandramapnd/DSA-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
