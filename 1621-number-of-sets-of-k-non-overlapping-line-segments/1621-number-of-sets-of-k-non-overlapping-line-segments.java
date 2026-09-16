@@ -1,24 +1,30 @@
 class Solution {
-    static final int MOD = 1000000007;
+    int[][] dp;
+    final int M = 1000000007;
 
     public int numberOfSets(int n, int K) {
-        long[][] dp = new long[n][K + 1];
+        dp = new int[n + 1][K + 1];
 
         for (int i = 0; i < n; i++) {
             dp[i][0] = 1;
         }
 
         for (int k = 1; k <= K; k++) {
-            long sum = 0;
 
-            for (int i = 1; i < n; i++) {
+            int sum = 0;
 
-                sum = (sum + dp[i - 1][k - 1]) % MOD;
+            for (int i = n - 1; i >= 0; i--) {
 
-                dp[i][k] = (dp[i - 1][k] + sum) % MOD;
+                int skip = dp[i + 1][k];
+
+                if (i + 1 < n) {
+                    sum = (sum + dp[i + 1][k - 1]) % M;
+                }
+
+                dp[i][k] = (skip + sum) % M;
             }
         }
 
-        return (int) dp[n - 1][K];
+        return dp[0][K];
     }
 }
