@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chandramapnd/DSA-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1575-count-all-possible-routes](https://github.com/chandramapnd/DSA-Questions/tree/master/1575-count-all-possible-routes) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chandramapnd/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandramapnd/DSA-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-soup-servings](https://github.com/chandramapnd/DSA-Questions/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/chandramapnd/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/chandramapnd/DSA-Questions/tree/master/1406-stone-game-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chandramapnd/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandramapnd/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/chandramapnd/DSA-Questions/tree/master/3870-count-commas-in-range) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chandramapnd/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Database
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/chandramapnd/DSA-Questions/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chandramapnd/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
