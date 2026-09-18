@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/chandramapnd/DSA-Questions/tree/master/0839-similar-string-groups) |
 | [0940-distinct-subsequences-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/chandramapnd/DSA-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandramapnd/DSA-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chandramapnd/DSA-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2706-buy-two-chocolates](https://github.com/chandramapnd/DSA-Questions/tree/master/2706-buy-two-chocolates) |
 ## Recursion
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chandramapnd/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chandramapnd/DSA-Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/1288-remove-covered-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2421-number-of-good-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/2421-number-of-good-paths) |
