@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chandramapnd/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chandramapnd/DSA-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/chandramapnd/DSA-Questions/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chandramapnd/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/chandramapnd/DSA-Questions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/chandramapnd/DSA-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/chandramapnd/DSA-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/3871-count-commas-in-range-ii) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chandramapnd/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
