@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/chandramapnd/DSA-Questions/tree/master/0839-similar-string-groups) |
 | [0940-distinct-subsequences-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/chandramapnd/DSA-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1096-brace-expansion-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandramapnd/DSA-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/chandramapnd/DSA-Questions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/chandramapnd/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [1096-brace-expansion-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/chandramapnd/DSA-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/chandramapnd/DSA-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/chandramapnd/DSA-Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [1096-brace-expansion-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/chandramapnd/DSA-Questions/tree/master/0575-distribute-candies) |
 | [0839-similar-string-groups](https://github.com/chandramapnd/DSA-Questions/tree/master/0839-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/chandramapnd/DSA-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1096-brace-expansion-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/chandramapnd/DSA-Questions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chandramapnd/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
+| [1096-brace-expansion-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/chandramapnd/DSA-Questions/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/chandramapnd/DSA-Questions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/chandramapnd/DSA-Questions/tree/master/0886-possible-bipartition) |
+| [1096-brace-expansion-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/chandramapnd/DSA-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/chandramapnd/DSA-Questions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
