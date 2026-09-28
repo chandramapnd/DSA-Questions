@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chandramapnd/DSA-Questions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/chandramapnd/DSA-Questions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/chandramapnd/DSA-Questions/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1096-brace-expansion-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/chandramapnd/DSA-Questions/tree/master/0075-sort-colors) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/chandramapnd/DSA-Questions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Probability and Statistics
@@ -445,4 +448,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/chandramapnd/DSA-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/chandramapnd/DSA-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
