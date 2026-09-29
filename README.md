@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chandramapnd/DSA-Questions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/chandramapnd/DSA-Questions/tree/master/0120-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/chandramapnd/DSA-Questions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandramapnd/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandramapnd/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/chandramapnd/DSA-Questions/tree/master/0575-distribute-candies) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chandramapnd/DSA-Questions/tree/master/0001-two-sum) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandramapnd/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/chandramapnd/DSA-Questions/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/chandramapnd/DSA-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/chandramapnd/DSA-Questions/tree/master/0575-distribute-candies) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0343-integer-break](https://github.com/chandramapnd/DSA-Questions/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/chandramapnd/DSA-Questions/tree/master/0365-water-and-jug-problem) |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandramapnd/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0808-soup-servings](https://github.com/chandramapnd/DSA-Questions/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/chandramapnd/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chandramapnd/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -460,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chandramapnd/DSA-Questions/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandramapnd/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/chandramapnd/DSA-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
