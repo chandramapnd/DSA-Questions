@@ -1,11 +1,11 @@
 class Solution {
-    Set<List<Integer>> set = new HashSet<>();
+    List<List<Integer>> res = new ArrayList<>();
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         solve(candidates, target, 0, new ArrayList<>());
-        List<List<Integer>> res = new ArrayList<>();
-        for(List<Integer> cur : set){
-            res.add(cur);
-        }
+        
+        // for(List<Integer> cur : set){
+        //     res.add(cur);
+        // }
         return res;
     }
     public void solve(int []nums, int target, int i, List<Integer> cur){
@@ -13,7 +13,7 @@ class Solution {
             return;
         }
         if (target == 0) {
-            set.add(new ArrayList<>(cur));
+            res.add(new ArrayList<>(cur));
             return;
         }
 
