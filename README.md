@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/chandramapnd/DSA-Questions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0839-similar-string-groups](https://github.com/chandramapnd/DSA-Questions/tree/master/0839-similar-string-groups) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chandramapnd/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/chandramapnd/DSA-Questions/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/chandramapnd/DSA-Questions/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/chandramapnd/DSA-Questions/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chandramapnd/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/chandramapnd/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chandramapnd/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/chandramapnd/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/chandramapnd/DSA-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chandramapnd/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/chandramapnd/DSA-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chandramapnd/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chandramapnd/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chandramapnd/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chandramapnd/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chandramapnd/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
